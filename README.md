@@ -14,11 +14,11 @@ The collected data is organized in a structured Google Drive repository. A compr
 - **Format**: The file format (e.g., PDF, JPEG, XML, JSON, Text).
 - **Upload Status**: Indicates whether the document has been successfully uploaded to the Google Drive.
 
-You can access the spreadsheet here: [Data Collection Spreadsheet](#)
+You can access the spreadsheet here: [Data Collection Spreadsheet](https://docs.google.com/spreadsheets/d/1FgM28ppG3kdV5qXt-kUWbi0BH0Iq2I7T4SuavrijFdU/edit?gid=0#gid=0)
 
 ## Google Drive Repository
 
-The organized data can be accessed through the following Google Drive link: [Healthcare Document Repository](https://docs.google.com/spreadsheets/d/1FgM28ppG3kdV5qXt-kUWbi0BH0Iq2I7T4SuavrijFdU/edit?gid=0#gid=0)
+The organized data can be accessed through the following Google Drive link: [Healthcare Document Repository](https://drive.google.com/drive/folders/1O68dra8dgdDcR1v7APy6r6r_3kIlD35-?usp=sharing)
 
 **Note**: Due to network issues, some data has not yet been uploaded to the Drive. The "Upload Status" column in the spreadsheet reflects the current state of each document's availability. Efforts are ongoing to complete the upload process.
 
