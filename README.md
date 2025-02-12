@@ -26,7 +26,9 @@ The organized data can be accessed through the following Google Drive link: [Hea
 
 For any questions or further information regarding this project, please contact:
 
-- **Project Lead**: [Gaurav Tailor]
-- **Email**: [gauravtailor43@gmail.com]
+- **Project Lead**: Gaurav Tailor
+- **Email**: gauravtailor43@gmail.com
 
 This README file provides an overview of the project's structure and current status. Please refer to the provided links for detailed information on the collected data.
+
+# Further Task Have To done In it......!
